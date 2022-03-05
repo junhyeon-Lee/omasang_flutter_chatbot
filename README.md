@@ -1,6 +1,6 @@
 # httpconnnection
 
-A new Flutter project.
+플러터를 이용해 제작한 채팅봇 어플리케이션입니다.
 
 ## Getting Started
 
